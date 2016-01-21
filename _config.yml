@@ -1,6 +1,10 @@
 # Site settings
 title: "CodePit"
 description: >
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description Write an awesome description for your new site here. You can edit this
+
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://hitchhiker.ma" # the base hostname & protocol for your site
@@ -9,7 +13,7 @@ author:
   fullname: Thilip Varadharajan
   googleplus: 
   github: thuruv
-  twitter: @silverbullet52x
+  twitter: silverbullet52x
   # disqus: your_disqus_username
 
 # google_analytics: 'UA-XXXXXXXX-X'
