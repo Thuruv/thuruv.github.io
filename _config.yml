@@ -1,7 +1,6 @@
 # Site settings
-title: CodePit
+title: "CodePit"
 description: >
-"""baseurl: "" the subpath of your site, e.g. /blog/"""
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://hitchhiker.ma" # the base hostname & protocol for your site
