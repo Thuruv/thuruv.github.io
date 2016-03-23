@@ -20,3 +20,4 @@ The Unceasing habit of reading, brought me to someplaces which
 I can pat myself for doing that before I die yet that sufficly gave me 
 something to write on my own.
 
+Also, sometimes I got confused with the overwhelming topics and methods everyone out handling.
