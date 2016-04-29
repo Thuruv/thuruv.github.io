@@ -16,7 +16,7 @@ What?
 Scrapping up all visible cartoon-scape images in (.jpg format)from the English Hindu Website and stores them in a folder with the naming convention of the respective dates.
 
 
-#Why?
+Why?
 
 
 It's a fun to to know about the missed cartoons, a small portable  image column in a corner of the fresh newspaper but will divulge the nation's hot topic or a minimal blow in the asses of something/someone caused the unconvincing situation on the last daylight. Persuading with the the knowledge you are gaining is a ecstasy and a chance to test your skills.
@@ -24,7 +24,7 @@ It's a fun to to know about the missed cartoons, a small portable  image column 
 One of my [Drona](https://en.wikipedia.org/wiki/Drona), mentioned about the book [in his blog here](http://www.kirang.in/2015/12/29/books-i-read-in-2015/) made me addicted back to Cartoon/comic crazy again.
 
 
-#How?
+How?
 
 Below is the gist containing the code. It's Python, so nothing more to explain of the plain-sight Pizza.
 
@@ -38,7 +38,7 @@ Below is the gist containing the code. It's Python, so nothing more to explain o
 Interestingly, I have never used the mechanize module much as I curled under Invisble cloak of requestes/bs4. But mechanize has certain much needed/minimal features like listing the current page's urls with regex filtering options like *url_regex*, *text_regex* etc. It eased the job with few lines of code (w.r.t my knowledge).
 
 
-#Reference:
+Reference:
 
 
 
