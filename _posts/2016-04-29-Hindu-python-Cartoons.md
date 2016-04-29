@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Python grab me a Cartoon"
+title:  "Python, Grab me a Cartoon"
 subtitle: "Scrapping the satire"
 date:   2016-04-29 12:29:11
 categories: [python]
