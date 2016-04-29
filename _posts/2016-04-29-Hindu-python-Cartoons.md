@@ -10,11 +10,13 @@ Everyone Loves Cartoons/Comics,eh? When it comes from [political satire](http://
 
 <center> 
 #What?
+-----
 
 Scrapping up all visible cartoon-scape images in (.jpg format)from the English Hindu Website and stores them in a folder with the naming convention of the respective dates.
 
 <center> 
 #Why?
+-----
 
 It's a fun to to know about the missed cartoons, a small portable  image column in a corner of the fresh newspaper but will divulge the nation's hot topic or a minimal blow in the asses of something/someone caused the unconvincing situation on the last daylight. Persuading with the the knowledge you are gaining is a ecstasy and a chance to test your skills.
 
@@ -22,7 +24,7 @@ One of my [Drona](https://en.wikipedia.org/wiki/Drona), mentioned about the book
 
 <center> 
 #How?
-
+-----
 Below is the gist containing the code. It's Python, so nothing more to explain of the plain-sight Pizza.
 
 {% gist 5d4cc11ce8b6a198cb81aec8de0676ef %}
@@ -36,6 +38,7 @@ Interestingly, I have never used the mechanize module much as I curled under Inv
 
 <center> 
 #Reference:
+-----
 
 
  1. Interestingly, when searching google for any projects/codes done before on scraping The Hindu came across [This one.](http://www.thehindu.com/thehindu/2003/05/26/stories/2003052600100200.htm) . 
