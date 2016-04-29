@@ -9,7 +9,8 @@ categories: [python]
 Everyone Loves Cartoons/Comics,eh? When it comes from [political satire](http://www.theonion.com/article/north-korea-celebrates-as-kim-jong-un-becomes-firs-31085) most of  you won't say a No.[Like this ](http://media.townhall.com/Townhall/Car/b/bg042916dAPR20160429064519.jpg), you won't be laughing again in life. Fortunately, I had a nice night scraping up the Cartoon-scape from India's century old newspaper [The Hindu](http://www.thehindu.com/) once which renowned cartoonists like [R. K. Laxman](https://en.wikipedia.org/wiki/R._K._Laxman), [K. Shankar Pillai](https://en.wikipedia.org/wiki/K._Shankar_Pillai) were ruling the pen.
 
 
-#What?
+What?
+----
 
 
 Scrapping up all visible cartoon-scape images in (.jpg format)from the English Hindu Website and stores them in a folder with the naming convention of the respective dates.
