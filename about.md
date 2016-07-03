@@ -1,12 +1,9 @@
 ---
-layout: page
 title: About
+layout: page
 subtitle: Just who the hell you think I am?
-permalink: /about/
+permalink: "/about/"
 ---
+Well, there's no need in any part of the world to know a liitle bit more about me. buut I know, you world, in some way. So I'll leave it for you.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Kudos : Jekyll themes.
