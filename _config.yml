@@ -1,7 +1,6 @@
 # Site settings
 title: "CodePit"
-description: >
-  None Provided by authour as he thinks you are obviously a moron.
+description: "None Provided by authour as he thinks you are obviously a moron."
 
 
 baseurl: "" # the subpath of your site, e.g. /blog/
