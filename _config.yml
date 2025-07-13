@@ -5,7 +5,7 @@ description: |
 
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://hitchhiker.ma" # the base hostname & protocol for your site
+url: "https://thuruv.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: Thilip Varadharajan
